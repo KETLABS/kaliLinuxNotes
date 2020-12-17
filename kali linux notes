@@ -1,0 +1,7 @@
+Kali Linux Notes
+
+Installing Git:
+error:
+Installing git for the first time common error:  etc etc are you rooted?
+Solution: use 'sudo' + apt install git to run the terminal as an administrator
+example >> sudo apt install git + enter
